@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    color: #333;
+    padding-top: 50px;
+    margin-top: 20px;
+    background-color: #eaeaea;
+}
+.container{
+    padding: 50px;
+}
+.containerTwo{
+    width: 440px;
+    height: 10vh;
+    font-size: 20px;
+    margin: 45px;
+    position: relative;
+    background-color: #d9e3d0;
+    border: thin solid #333;
+}
+.box{
+    width: 50px;
+    height: 10vh;
+    position: absolute;
+    text-align: center;
+    line-height: 100px;
+    background-color: black;
+
+}
