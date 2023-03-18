@@ -1,0 +1,16 @@
+#circle {
+  position: relative;
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+  border: 2px solid black;
+  margin: 50px auto;
+}
+
+#block {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  background-color: red;
+  border-radius: 50%;
+}
